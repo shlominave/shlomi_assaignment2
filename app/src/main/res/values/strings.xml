@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">shlomi_assaignment2</string>
+    <string name="textOnButton">Click here!</string>
+    <string name="textOnTextBox">Number of clickes:</string>
 </resources>
